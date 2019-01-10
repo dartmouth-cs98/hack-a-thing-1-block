@@ -19,6 +19,8 @@ It would  take much work to do make a useful product using cordapp.
 
 ## Resources Used 
 
-[Video Tutorials](https://www.youtube.com/channel/UCoOuUZatvIC1U65OisCrIKg)
+[BootCamp code with tests] (https://github.com/corda/bootcamp-cordapp)
+
+[Video Tutorials I used](https://www.youtube.com/channel/UCoOuUZatvIC1U65OisCrIKg)
 
 [Corda Wedsite](https://docs.corda.net/building-a-cordapp-index.html)
