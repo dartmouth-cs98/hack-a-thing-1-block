@@ -19,7 +19,7 @@ It would  take much work to do make a useful product using cordapp.
 
 ## Resources Used 
 
-[BootCamp code with tests] (https://github.com/corda/bootcamp-cordapp)
+[BootCamp code with tests](https://github.com/corda/bootcamp-cordapp)
 
 [Video Tutorials I used](https://www.youtube.com/channel/UCoOuUZatvIC1U65OisCrIKg)
 
